@@ -9,7 +9,7 @@ This work is licensed under a
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgreen.svg
 
 This repository contains implementations of popular ML-algorithms from scratch using Python and their theoretical description. In addition, the course will feature tutorials on the necessary ML-libraries and all the theory of concepts in ML, starting from methods of evaluating models and ending with optimization methods.
 
