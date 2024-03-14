@@ -1,6 +1,7 @@
 ![ML from scratch course logo](https://github.com/egaoharu-kensei/ML-algorithms-from-scratch.-Course-for-beginners/assets/162469942/db9333ab-6025-4961-b745-d45467ab71c2)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg
