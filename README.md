@@ -6,18 +6,20 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+This repository contains implementations of all popular ML-algorithms from scratch using Python with their detailed theoretical description. In addition, this course is presented in two languages (eng, rus) in the form of jupyter notebooks and will feature tutorials on the necessary ML-libraries and also all the theory of concepts in ML, starting from methods of evaluating models and ending with optimization methods.
 
-🏆This repository contains implementations of all popular ML-algorithms from scratch using Python with their detailed theoretical description. In addition, this course is presented in two languages (eng, rus) in the form of jupyter notebooks and will feature tutorials on the necessary ML-libraries and also all the theory of concepts in ML, starting from methods of evaluating models and ending with optimization methods.
-
-#### 🔔 ***This course is also available on other platforms: [Habr (rus)](https://habr.com/ru/users/egaoharu_kensei/publications/articles/) and [Kaggle (eng)](https://www.kaggle.com/egazakharenko/code)***
+#### 🔔***This course is also available on other platforms: [Habr (rus)](https://habr.com/ru/users/egaoharu_kensei/publications/articles/) and [Kaggle (eng)](https://www.kaggle.com/egazakharenko/code)***
 
 ## **What you need to know before studying**
 
 - python (at the function and OOP level);
 - mathematics (linear algebra, calculus, probability theory and statistics).
 
+##
+
 #### ⭕ ***At the moment, the course is under development and new notebooks will be gradually added***
+
+##
 
 ## **Current content**
 
@@ -58,4 +60,4 @@
 
 ##
 
-#### ✨All success and until we meet again!✨
+### All success and until we meet again!✨
