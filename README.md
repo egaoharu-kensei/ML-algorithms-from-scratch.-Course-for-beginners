@@ -17,7 +17,7 @@ This repository contains implementations of all popular ML-algorithms from scrat
 
 ## **Current content**
 
-#### ⭕ *At the moment, the course is under development and new notebooks will be gradually added*
+⭕ *At the moment, the course is under development and new notebooks will be gradually added*
 
 ***Initial theory***
 - 8\) Quality metrics and error analysis
