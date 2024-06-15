@@ -17,6 +17,8 @@ This repository contains implementations of all popular ML-algorithms from scrat
 
 ## **Current content**
 
+#### ⭕ ***At the moment, the course is under development and new notebooks will be gradually added***
+
 ***Initial theory***
 - 8\) Quality metrics and error analysis
 - 9\) Optimization methods in ML and DL
@@ -37,8 +39,6 @@ This repository contains implementations of all popular ML-algorithms from scrat
 ***Unsupervised learning***
 - 12\) Principal Component Analysis (PCA)
 - 13\) Popular clustering algorithms (K-Means, DBSCAN et al.)
-
-#### ⭕ ***At the moment, the course is under development and new notebooks will be gradually added***
 
 ## **Best additional sources**
 
