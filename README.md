@@ -6,16 +6,18 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg
 
-This repository contains implementations of all popular ML-algorithms from scratch using Python with their detailed theoretical description. In addition, this course is presented in two languages (eng, rus) in the form of jupyter notebooks and will feature tutorials on the necessary ML-libraries and also all the theory of concepts in ML, starting from methods of evaluating models and ending with optimization methods.
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-🔔 #### <font color="darkgreen"> This course is also available on other platforms: [Habr (rus)](https://habr.com/ru/users/egaoharu_kensei/publications/articles/) and [Kaggle (eng)](https://www.kaggle.com/egazakharenko/code)</font>
+🏆This repository contains implementations of all popular ML-algorithms from scratch using Python with their detailed theoretical description. In addition, this course is presented in two languages (eng, rus) in the form of jupyter notebooks and will feature tutorials on the necessary ML-libraries and also all the theory of concepts in ML, starting from methods of evaluating models and ending with optimization methods.
+
+#### 🔔 ***This course is also available on other platforms: [Habr (rus)](https://habr.com/ru/users/egaoharu_kensei/publications/articles/) and [Kaggle (eng)](https://www.kaggle.com/egazakharenko/code)***
 
 ## **What you need to know before studying**
 
 - python (at the function and OOP level);
 - mathematics (linear algebra, calculus, probability theory and statistics).
 
-#### <font color="darkred"> At the moment, the course is under development and new notebooks will be gradually added </font>
+#### ⭕ ***At the moment, the course is under development and new notebooks will be gradually added***
 
 ## **Current content**
 
@@ -54,5 +56,6 @@ This repository contains implementations of all popular ML-algorithms from scrat
 - [Machine Learning (StatQuest with Josh Starmer)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Machine Learning Concepts (Simply Explained) by Pedram Jahangiry](https://www.youtube.com/playlist?list=PL2GWo47BFyUPWL5fBZSn6FFHRr1bSkX_J)
 
+##
 
-✨#### All success and until we meet again!✨
+#### ✨All success and until we meet again!✨
