@@ -19,8 +19,6 @@ This repository contains implementations of all popular ML-algorithms from scrat
 
 #### ⭕ ***At the moment, the course is under development and new notebooks will be gradually added***
 
-##
-
 ## **Current content**
 
 ***Initial theory***
@@ -60,4 +58,4 @@ This repository contains implementations of all popular ML-algorithms from scrat
 
 ##
 
-### All success and until we meet again!✨
+### All success and until we meet again!🏆
