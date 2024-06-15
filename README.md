@@ -15,10 +15,6 @@ This repository contains implementations of all popular ML-algorithms from scrat
 - python (at the function and OOP level);
 - mathematics (linear algebra, calculus, probability theory and statistics).
 
-##
-
-#### ⭕ ***At the moment, the course is under development and new notebooks will be gradually added***
-
 ## **Current content**
 
 ***Initial theory***
@@ -41,6 +37,8 @@ This repository contains implementations of all popular ML-algorithms from scrat
 ***Unsupervised learning***
 - 12\) Principal Component Analysis (PCA)
 - 13\) Popular clustering algorithms (K-Means, DBSCAN et al.)
+
+#### ⭕ ***At the moment, the course is under development and new notebooks will be gradually added***
 
 ## **Best additional sources**
 
